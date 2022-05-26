@@ -1,2 +1,4 @@
 # laravel
-laravelでECサイト作成
+
+laravel で EC サイト作成
+sec02
