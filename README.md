@@ -1,2 +1,2 @@
 # laravel
-laravelでECサイト作成
+laravelでECサイト作成！
